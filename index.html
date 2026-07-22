@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Academic Words for Reading and Listening</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <!-- Landing Screen -->
+      <div id="screen-landing" class="screen active">
+        <div class="container">
+          <h1 class="app-title">
+            Academic Words<br />for Reading and Listening
+          </h1>
+          <p class="app-subtitle">A vocabulary practice tool</p>
+          <div class="landing-form">
+            <label for="name-input" class="input-label">Enter your name:</label>
+            <input
+              type="text"
+              id="name-input"
+              class="text-input"
+              placeholder="Your name"
+              autocomplete="off"
+            />
+            <button id="btn-landing-next" class="btn btn-primary" disabled>
+              Next
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unit Selection Screen -->
+      <div id="screen-units" class="screen">
+        <div class="container">
+          <h2 class="screen-title">Select a Unit</h2>
+          <div class="card-grid" id="unit-cards"></div>
+        </div>
+      </div>
+
+      <!-- Exercise Selection Screen -->
+      <div id="screen-exercises" class="screen">
+        <div class="container">
+          <button class="btn btn-back" id="btn-ex-back">← Back</button>
+          <h2 class="screen-title" id="ex-unit-title">Unit 1</h2>
+          <div class="card-grid" id="exercise-cards"></div>
+        </div>
+      </div>
+
+      <!-- Study Cards Screen -->
+      <div id="screen-study-cards" class="screen">
+        <div class="container">
+          <button class="btn btn-back" id="btn-sc-back">← Back</button>
+          <h2 class="screen-title">Study Cards</h2>
+          <div class="card-counter" id="sc-counter">1 / 45</div>
+          <div class="flip-card" id="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <div class="card-word" id="sc-word">Word</div>
+                <div class="card-pronunciation" id="sc-pronunciation">
+                  /pronunciation/
+                </div>
+                <button
+                  class="btn-icon"
+                  id="sc-speak"
+                  title="Listen to pronunciation"
+                >
+                  🔊
+                </button>
+                <p class="tap-hint">Tap to flip</p>
+              </div>
+              <div class="flip-card-back">
+                <div class="card-definition-label">Definition</div>
+                <div class="card-definition" id="sc-definition">definition</div>
+                <div class="card-synonym-label">Synonym</div>
+                <div class="card-synonym" id="sc-synonym">synonym</div>
+                <div class="card-example-label">Example</div>
+                <div class="card-example" id="sc-example">example sentence</div>
+              </div>
+            </div>
+          </div>
+          <div class="card-nav">
+            <button class="btn btn-secondary" id="btn-sc-prev">
+              ← Previous
+            </button>
+            <button class="btn btn-secondary" id="btn-sc-next">Next →</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Matching/Gap-Filling Exercise Screen (shared) -->
+      <div id="screen-matching" class="screen">
+        <div class="container">
+          <button class="btn btn-back" id="btn-match-back">← Back</button>
+          <h2 class="screen-title" id="match-title">Matching Synonyms</h2>
+          <div class="exercise-status">
+            <span id="match-progress">Question 1 / 20</span>
+            <span class="timer" id="match-timer">25s</span>
+          </div>
+          <div class="prompt-area" id="match-prompt">
+            <span class="prompt-label">Word:</span>
+            <span class="prompt-text" id="match-prompt-text">aim</span>
+            <button
+              class="btn-icon"
+              id="match-speak"
+              title="Listen to pronunciation"
+            >
+              🔊
+            </button>
+          </div>
+          <div class="options-grid" id="match-options"></div>
+          <div id="match-feedback" class="feedback hidden"></div>
+        </div>
+      </div>
+
+      <!-- Gap Filling Screen -->
+      <div id="screen-gap" class="screen">
+        <div class="container">
+          <button class="btn btn-back" id="btn-gap-back">← Back</button>
+          <h2 class="screen-title">Gap Filling</h2>
+          <div class="exercise-status">
+            <span id="gap-progress">Question 1 / 20</span>
+            <span class="timer" id="gap-timer">30s</span>
+          </div>
+          <div class="prompt-area">
+            <p class="gap-sentence" id="gap-sentence">
+              The sentence with ___ blank.
+            </p>
+          </div>
+          <div class="options-grid" id="gap-options"></div>
+          <div id="gap-feedback" class="feedback hidden"></div>
+        </div>
+      </div>
+
+      <!-- Sentence Making Screen -->
+      <div id="screen-sentence" class="screen">
+        <div class="container">
+          <button class="btn btn-back" id="btn-sent-back">← Back</button>
+          <h2 class="screen-title">Sentence Making</h2>
+          <div class="exercise-status">
+            <span id="sent-progress">Word 1 / 15</span>
+            <span class="timer" id="sent-timer">2:00</span>
+          </div>
+          <div class="prompt-area">
+            <span class="prompt-label">Write a sentence using:</span>
+            <span class="prompt-text sent-word" id="sent-word">aim</span>
+            <button
+              class="btn-icon"
+              id="sent-speak"
+              title="Listen to pronunciation"
+            >
+              🔊
+            </button>
+            <div class="sent-pronunciation" id="sent-pronunciation">/eɪm/</div>
+          </div>
+          <textarea
+            class="sent-textarea"
+            id="sent-input"
+            placeholder="Type your sentence here..."
+            rows="3"
+          ></textarea>
+          <button class="btn btn-primary" id="btn-sent-submit">Submit</button>
+          <div id="sent-feedback" class="feedback hidden"></div>
+        </div>
+      </div>
+
+      <!-- Results Screen -->
+      <div id="screen-results" class="screen">
+        <div class="container">
+          <h2 class="screen-title">Results</h2>
+          <div class="results-card">
+            <div class="result-row">
+              <span class="result-label">Student:</span
+              ><span id="result-name" class="result-value"></span>
+            </div>
+            <div class="result-row">
+              <span class="result-label">Unit:</span
+              ><span id="result-unit" class="result-value"></span>
+            </div>
+            <div class="result-row">
+              <span class="result-label">Exercise:</span
+              ><span id="result-exercise" class="result-value"></span>
+            </div>
+            <div class="result-divider"></div>
+            <div class="result-row result-score">
+              <span class="result-label">Score:</span
+              ><span id="result-score" class="result-value"></span>
+            </div>
+            <div class="result-row">
+              <span class="result-label">Time:</span
+              ><span id="result-time" class="result-value"></span>
+            </div>
+          </div>
+          <button class="btn btn-primary" id="btn-results-units">
+            ← Back to Units
+          </button>
+        </div>
+      </div>
+
+      <!-- Loading overlay -->
+      <div id="loading" class="loading hidden">
+        <div class="loading-text">Loading words...</div>
+      </div>
+    </div>
+
+    <script src="config.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

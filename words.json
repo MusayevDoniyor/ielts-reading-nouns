@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "access",
+    "unit": 1,
+    "word": "Access",
+    "definition": "Ability to enter or use something",
+    "synonym": "Entry",
+    "pronunciation": "/ˈæk.ses/",
+    "example": "Students need special access to the library archives."
+  },
+  {
+    "id": "accuracy",
+    "unit": 1,
+    "word": "Accuracy",
+    "definition": "The quality of being correct",
+    "synonym": "Precision",
+    "pronunciation": "/ˈæk.jə.rə.si/",
+    "example": "The report was praised for its accuracy."
+  },
+  {
+    "id": "advantage",
+    "unit": 1,
+    "word": "Advantage",
+    "definition": "A beneficial feature",
+    "synonym": "Benefit",
+    "pronunciation": "/ədˈvæn.tɪdʒ/",
+    "example": "Speaking two languages gave her an advantage in the interview."
+  },
+  {
+    "id": "aim",
+    "unit": 1,
+    "word": "Aim",
+    "definition": "A goal or intended outcome",
+    "synonym": "Objective",
+    "pronunciation": "/eɪm/",
+    "example": "Her main aim was to finish the project on time."
+  },
+  {
+    "id": "approach",
+    "unit": 1,
+    "word": "Approach",
+    "definition": "A way of dealing with something",
+    "synonym": "Method",
+    "pronunciation": "/əˈproʊtʃ/",
+    "example": "Teachers should try a new approach to this problem."
+  },
+  {
+    "id": "area",
+    "unit": 1,
+    "word": "Area",
+    "definition": "A specific geographic or conceptual space",
+    "synonym": "Region",
+    "pronunciation": "/ˈer.i.ə/",
+    "example": "This area of research has grown rapidly in recent years."
+  },
+  {
+    "id": "aspect",
+    "unit": 1,
+    "word": "Aspect",
+    "definition": "A particular part or feature",
+    "synonym": "Element",
+    "pronunciation": "/ˈæs.pekt/",
+    "example": "One important aspect of the plan was ignored."
+  },
+  {
+    "id": "assumption",
+    "unit": 1,
+    "word": "Assumption",
+    "definition": "Something accepted without proof",
+    "synonym": "Presumption",
+    "pronunciation": "/əˈsʌmp.ʃən/",
+    "example": "The theory is based on a false assumption."
+  },
+  {
+    "id": "attempt",
+    "unit": 1,
+    "word": "Attempt",
+    "definition": "A try to do something",
+    "synonym": "Effort",
+    "pronunciation": "/əˈtempt/",
+    "example": "His first attempt to solve the puzzle failed."
+  },
+  {
+    "id": "authority",
+    "unit": 1,
+    "word": "Authority",
+    "definition": "The power to control or make decisions",
+    "synonym": "Control",
+    "pronunciation": "/əˈθɔːr.ə.ti/",
+    "example": "The manager has the authority to approve the budget."
+  },
+  {
+    "id": "benefit",
+    "unit": 1,
+    "word": "Benefit",
+    "definition": "A helpful result",
+    "synonym": "Advantage",
+    "pronunciation": "/ˈben.ə.fɪt/",
+    "example": "Regular exercise has many benefits for health."
+  },
+  {
+    "id": "bias",
+    "unit": 1,
+    "word": "Bias",
+    "definition": "A tendency to favor or oppose unfairly",
+    "synonym": "Prejudice",
+    "pronunciation": "/ˈbaɪ.əs/",
+    "example": "The journalist was accused of political bias."
+  },
+  {
+    "id": "cause",
+    "unit": 1,
+    "word": "Cause",
+    "definition": "A reason for something happening",
+    "synonym": "Source",
+    "pronunciation": "/kɔːz/",
+    "example": "Poor communication was the main cause of the conflict."
+  },
+  {
+    "id": "challenge",
+    "unit": 1,
+    "word": "Challenge",
+    "definition": "A difficult task or problem",
+    "synonym": "Obstacle",
+    "pronunciation": "/ˈtʃæl.ɪndʒ/",
+    "example": "Learning a new language can be a real challenge."
+  },
+  {
+    "id": "change",
+    "unit": 1,
+    "word": "Change",
+    "definition": "An act of becoming different",
+    "synonym": "Alteration",
+    "pronunciation": "/tʃeɪndʒ/",
+    "example": "The company announced a major change in policy."
+  },
+  {
+    "id": "choice",
+    "unit": 1,
+    "word": "Choice",
+    "definition": "The act of selecting",
+    "synonym": "Option",
+    "pronunciation": "/tʃɔɪs/",
+    "example": "She had to make a difficult choice."
+  },
+  {
+    "id": "claim",
+    "unit": 1,
+    "word": "Claim",
+    "definition": "A statement something is true",
+    "synonym": "Assertion",
+    "pronunciation": "/kleɪm/",
+    "example": "The scientist's claim was later proven false."
+  },
+  {
+    "id": "component",
+    "unit": 1,
+    "word": "Component",
+    "definition": "A part of a larger whole",
+    "synonym": "Element",
+    "pronunciation": "/kəmˈpoʊ.nənt/",
+    "example": "Trust is a key component of any relationship."
+  },
+  {
+    "id": "concept",
+    "unit": 1,
+    "word": "Concept",
+    "definition": "An abstract idea",
+    "synonym": "Notion",
+    "pronunciation": "/ˈkɒn.sept/",
+    "example": "Students found the new concept hard to understand."
+  },
+  {
+    "id": "conclusion",
+    "unit": 1,
+    "word": "Conclusion",
+    "definition": "The final result or decision",
+    "synonym": "Outcome",
+    "pronunciation": "/kənˈkluː.ʒən/",
+    "example": "The jury reached their conclusion after hours of debate."
+  },
+  {
+    "id": "condition",
+    "unit": 1,
+    "word": "Condition",
+    "definition": "The state of something",
+    "synonym": "Situation",
+    "pronunciation": "/kənˈdɪʃ.ən/",
+    "example": "The car was sold in excellent condition."
+  },
+  {
+    "id": "conflict",
+    "unit": 1,
+    "word": "Conflict",
+    "definition": "A serious disagreement",
+    "synonym": "Dispute",
+    "pronunciation": "/ˈkɒn.flɪkt/",
+    "example": "The conflict between the two nations lasted for years."
+  },
+  {
+    "id": "connection",
+    "unit": 1,
+    "word": "Connection",
+    "definition": "A link or relationship",
+    "synonym": "Association",
+    "pronunciation": "/kəˈnek.ʃən/",
+    "example": "There is a clear connection between diet and health."
+  },
+  {
+    "id": "consequence",
+    "unit": 1,
+    "word": "Consequence",
+    "definition": "A result of an action",
+    "synonym": "Outcome",
+    "pronunciation": "/ˈkɒn.sɪ.kwəns/",
+    "example": "Every action has a consequence."
+  },
+  {
+    "id": "context",
+    "unit": 1,
+    "word": "Context",
+    "definition": "The surrounding situation",
+    "synonym": "Background",
+    "pronunciation": "/ˈkɒn.tekst/",
+    "example": "It is important to read the quote in context."
+  },
+  {
+    "id": "contribution",
+    "unit": 1,
+    "word": "Contribution",
+    "definition": "Something given to achieve a result",
+    "synonym": "Input",
+    "pronunciation": "/ˌkɒn.trɪˈbjuː.ʃən/",
+    "example": "Her contribution to the project was invaluable."
+  },
+  {
+    "id": "criteria",
+    "unit": 1,
+    "word": "Criteria",
+    "definition": "Standards by which something is judged",
+    "synonym": "Conditions",
+    "pronunciation": "/kraɪˈtɪər.i.ə/",
+    "example": "The judges used strict criteria to score the contest."
+  },
+  {
+    "id": "data",
+    "unit": 1,
+    "word": "Data",
+    "definition": "Factual information",
+    "synonym": "Information",
+    "pronunciation": "/ˈdeɪ.tə/",
+    "example": "The scientists collected data over several months."
+  },
+  {
+    "id": "debate",
+    "unit": 1,
+    "word": "Debate",
+    "definition": "A formal discussion",
+    "synonym": "Argument",
+    "pronunciation": "/dɪˈbeɪt/",
+    "example": "The debate over climate policy continued for hours."
+  },
+  {
+    "id": "decline",
+    "unit": 1,
+    "word": "Decline",
+    "definition": "A reduction or decrease",
+    "synonym": "Drop",
+    "pronunciation": "/dɪˈklaɪn/",
+    "example": "There has been a steady decline in sales."
+  },
+  {
+    "id": "demand",
+    "unit": 1,
+    "word": "Demand",
+    "definition": "The need or desire for something",
+    "synonym": "Requirement",
+    "pronunciation": "/dɪˈmɑːnd/",
+    "example": "There is high demand for skilled workers."
+  },
+  {
+    "id": "description",
+    "unit": 1,
+    "word": "Description",
+    "definition": "A spoken or written account",
+    "synonym": "Explanation",
+    "pronunciation": "/dɪˈskrɪp.ʃən/",
+    "example": "The witness gave a detailed description of the suspect."
+  },
+  {
+    "id": "design",
+    "unit": 1,
+    "word": "Design",
+    "definition": "A plan or drawing",
+    "synonym": "Blueprint",
+    "pronunciation": "/dɪˈzaɪn/",
+    "example": "The building's design won several awards."
+  },
+  {
+    "id": "detail",
+    "unit": 1,
+    "word": "Detail",
+    "definition": "A small part of something",
+    "synonym": "Element",
+    "pronunciation": "/ˈdiː.teɪl/",
+    "example": "She paid close attention to every detail."
+  },
+  {
+    "id": "development",
+    "unit": 1,
+    "word": "Development",
+    "definition": "The process of growth",
+    "synonym": "Progression",
+    "pronunciation": "/dɪˈvel.əp.mənt/",
+    "example": "The development of new technology changed the industry."
+  },
+  {
+    "id": "difference",
+    "unit": 1,
+    "word": "Difference",
+    "definition": "The way in which things are not the same",
+    "synonym": "Contrast",
+    "pronunciation": "/ˈdɪf.ər.əns/",
+    "example": "There is a big difference between the two versions."
+  },
+  {
+    "id": "discovery",
+    "unit": 1,
+    "word": "Discovery",
+    "definition": "Finding something for the first time",
+    "synonym": "Revelation",
+    "pronunciation": "/dɪˈskʌv.ər.i/",
+    "example": "The discovery of penicillin saved millions of lives."
+  },
+  {
+    "id": "discussion",
+    "unit": 1,
+    "word": "Discussion",
+    "definition": "Talking about a topic",
+    "synonym": "Conversation",
+    "pronunciation": "/dɪˈskʌʃ.ən/",
+    "example": "The discussion lasted longer than expected."
+  },
+  {
+    "id": "effect",
+    "unit": 1,
+    "word": "Effect",
+    "definition": "A result of an influence",
+    "synonym": "Impact",
+    "pronunciation": "/ɪˈfekt/",
+    "example": "The medicine had an immediate effect."
+  },
+  {
+    "id": "efficiency",
+    "unit": 1,
+    "word": "Efficiency",
+    "definition": "Doing something without wasting time",
+    "synonym": "Productivity",
+    "pronunciation": "/ɪˈfɪʃ.ən.si/",
+    "example": "The new system improved the factory's efficiency."
+  },
+  {
+    "id": "element",
+    "unit": 1,
+    "word": "Element",
+    "definition": "A basic part of something",
+    "synonym": "Component",
+    "pronunciation": "/ˈel.ɪ.mənt/",
+    "example": "Trust is an essential element of teamwork."
+  },
+  {
+    "id": "evidence",
+    "unit": 1,
+    "word": "Evidence",
+    "definition": "Proof or facts supporting a claim",
+    "synonym": "Confirmation",
+    "pronunciation": "/ˈev.ɪ.dəns/",
+    "example": "The police found no evidence of a crime."
+  },
+  {
+    "id": "example",
+    "unit": 1,
+    "word": "Example",
+    "definition": "A representative case",
+    "synonym": "Instance",
+    "pronunciation": "/ɪɡˈzɑːm.pəl/",
+    "example": "She gave a clear example to support her point."
+  },
+  {
+    "id": "examination",
+    "unit": 1,
+    "word": "Examination",
+    "definition": "A detailed inspection or test",
+    "synonym": "Analysis",
+    "pronunciation": "/ɪɡˌzæm.ɪˈneɪ.ʃən/",
+    "example": "The doctor conducted a thorough examination."
+  },
+  {
+    "id": "explanation",
+    "unit": 1,
+    "word": "Explanation",
+    "definition": "A reason given for something",
+    "synonym": "Clarification",
+    "pronunciation": "/ˌek.spləˈneɪ.ʃən/",
+    "example": "He offered a simple explanation for the delay."
+  },
+  {
+    "id": "factor",
+    "unit": 2,
+    "word": "Factor",
+    "definition": "Something that contributes to a result",
+    "synonym": "Cause",
+    "pronunciation": "/ˈfæk.tər/",
+    "example": "Cost is an important factor to consider."
+  },
+  {
+    "id": "feature",
+    "unit": 2,
+    "word": "Feature",
+    "definition": "A distinctive quality or characteristic",
+    "synonym": "Trait",
+    "pronunciation": "/ˈfiː.tʃər/",
+    "example": "The new phone has many useful features."
+  },
+  {
+    "id": "finding",
+    "unit": 2,
+    "word": "Finding",
+    "definition": "A result discovered through research",
+    "synonym": "Result",
+    "pronunciation": "/ˈfaɪn.dɪŋ/",
+    "example": "The study's findings surprised the researchers."
+  },
+  {
+    "id": "focus",
+    "unit": 2,
+    "word": "Focus",
+    "definition": "The center of interest or activity",
+    "synonym": "Concentration",
+    "pronunciation": "/ˈfoʊ.kəs/",
+    "example": "Her focus was entirely on finishing the report."
+  },
+  {
+    "id": "function",
+    "unit": 2,
+    "word": "Function",
+    "definition": "The purpose of something",
+    "synonym": "Role",
+    "pronunciation": "/ˈfʌŋk.ʃən/",
+    "example": "The function of the heart is to pump blood."
+  },
+  {
+    "id": "goal",
+    "unit": 2,
+    "word": "Goal",
+    "definition": "The result someone aims for",
+    "synonym": "Target",
+    "pronunciation": "/ɡoʊl/",
+    "example": "Their goal was to reduce pollution by half."
+  },
+  {
+    "id": "growth",
+    "unit": 2,
+    "word": "Growth",
+    "definition": "An increase in size or number",
+    "synonym": "Expansion",
+    "pronunciation": "/ɡroʊθ/",
+    "example": "Economic growth slowed down last year."
+  },
+  {
+    "id": "hypothesis",
+    "unit": 2,
+    "word": "Hypothesis",
+    "definition": "A theory based on limited evidence",
+    "synonym": "Assumption",
+    "pronunciation": "/haɪˈpɒθ.ə.sɪs/",
+    "example": "The scientist tested her hypothesis in the lab."
+  },
+  {
+    "id": "idea",
+    "unit": 2,
+    "word": "Idea",
+    "definition": "A thought or concept",
+    "synonym": "Notion",
+    "pronunciation": "/aɪˈdɪə/",
+    "example": "She had a brilliant idea for the project."
+  },
+  {
+    "id": "impact",
+    "unit": 2,
+    "word": "Impact",
+    "definition": "A strong effect",
+    "synonym": "Influence",
+    "pronunciation": "/ˈɪm.pækt/",
+    "example": "The storm had a huge impact on the region."
+  },
+  {
+    "id": "improvement",
+    "unit": 2,
+    "word": "Improvement",
+    "definition": "The act of making better",
+    "synonym": "Enhancement",
+    "pronunciation": "/ɪmˈpruːv.mənt/",
+    "example": "There has been a big improvement in her grades."
+  },
+  {
+    "id": "increase",
+    "unit": 2,
+    "word": "Increase",
+    "definition": "A rise in amount or number",
+    "synonym": "Growth",
+    "pronunciation": "/ˈɪŋ.kriːs/",
+    "example": "There was a sharp increase in prices."
+  },
+  {
+    "id": "influence",
+    "unit": 2,
+    "word": "Influence",
+    "definition": "Power to affect something",
+    "synonym": "Impact",
+    "pronunciation": "/ˈɪn.flu.əns/",
+    "example": "Parents have a strong influence on their children."
+  },
+  {
+    "id": "information",
+    "unit": 2,
+    "word": "Information",
+    "definition": "Knowledge or data",
+    "synonym": "Facts",
+    "pronunciation": "/ˌɪn.fərˈmeɪ.ʃən/",
+    "example": "The website provides useful information for travelers."
+  },
+  {
+    "id": "innovation",
+    "unit": 2,
+    "word": "Innovation",
+    "definition": "A new method or idea",
+    "synonym": "Invention",
+    "pronunciation": "/ˌɪn.əˈveɪ.ʃən/",
+    "example": "The company is known for its innovation."
+  },
+  {
+    "id": "insight",
+    "unit": 2,
+    "word": "Insight",
+    "definition": "A deep understanding",
+    "synonym": "Perception",
+    "pronunciation": "/ˈɪn.saɪt/",
+    "example": "The book offers valuable insight into history."
+  },
+  {
+    "id": "issue",
+    "unit": 2,
+    "word": "Issue",
+    "definition": "An important topic or concern",
+    "synonym": "Problem",
+    "pronunciation": "/ˈɪʃ.uː/",
+    "example": "Climate change is a global issue."
+  },
+  {
+    "id": "knowledge",
+    "unit": 2,
+    "word": "Knowledge",
+    "definition": "Information gained through learning",
+    "synonym": "Understanding",
+    "pronunciation": "/ˈnɒl.ɪdʒ/",
+    "example": "He has deep knowledge of ancient history."
+  },
+  {
+    "id": "limitation",
+    "unit": 2,
+    "word": "Limitation",
+    "definition": "A restriction or shortcoming",
+    "synonym": "Constraint",
+    "pronunciation": "/ˌlɪm.ɪˈteɪ.ʃən/",
+    "example": "Every method has its limitations."
+  },
+  {
+    "id": "method",
+    "unit": 2,
+    "word": "Method",
+    "definition": "A way of doing something",
+    "synonym": "Technique",
+    "pronunciation": "/ˈmeθ.əd/",
+    "example": "They used a new method to test the samples."
+  },
+  {
+    "id": "model",
+    "unit": 2,
+    "word": "Model",
+    "definition": "A representation or example",
+    "synonym": "Pattern",
+    "pronunciation": "/ˈmɒd.əl/",
+    "example": "The scientist built a model to explain the data."
+  },
+  {
+    "id": "need",
+    "unit": 2,
+    "word": "Need",
+    "definition": "Something required",
+    "synonym": "Necessity",
+    "pronunciation": "/niːd/",
+    "example": "There is an urgent need for clean water."
+  },
+  {
+    "id": "observation",
+    "unit": 2,
+    "word": "Observation",
+    "definition": "The action of watching something carefully",
+    "synonym": "Monitoring",
+    "pronunciation": "/ˌɒb.zəˈveɪ.ʃən/",
+    "example": "Careful observation helped the doctor diagnose the illness."
+  },
+  {
+    "id": "opinion",
+    "unit": 2,
+    "word": "Opinion",
+    "definition": "A belief or judgment",
+    "synonym": "View",
+    "pronunciation": "/əˈpɪn.jən/",
+    "example": "In my opinion, the plan will not work."
+  },
+  {
+    "id": "outcome",
+    "unit": 2,
+    "word": "Outcome",
+    "definition": "The result of a process or event",
+    "synonym": "Consequence",
+    "pronunciation": "/ˈaʊt.kʌm/",
+    "example": "The outcome of the trial surprised everyone."
+  },
+  {
+    "id": "pattern",
+    "unit": 2,
+    "word": "Pattern",
+    "definition": "A repeated or regular arrangement",
+    "synonym": "Trend",
+    "pronunciation": "/ˈpæt.ərn/",
+    "example": "Researchers noticed a pattern in the data."
+  },
+  {
+    "id": "perception",
+    "unit": 2,
+    "word": "Perception",
+    "definition": "The way something is understood",
+    "synonym": "Awareness",
+    "pronunciation": "/pərˈsep.ʃən/",
+    "example": "Public perception of the issue has changed."
+  },
+  {
+    "id": "policy",
+    "unit": 2,
+    "word": "Policy",
+    "definition": "A rule or course of action",
+    "synonym": "Guideline",
+    "pronunciation": "/ˈpɒl.ə.si/",
+    "example": "The government introduced a new policy on housing."
+  },
+  {
+    "id": "possibility",
+    "unit": 2,
+    "word": "Possibility",
+    "definition": "Something that might happen",
+    "synonym": "Potential",
+    "pronunciation": "/ˌpɒs.əˈbɪl.ə.ti/",
+    "example": "There is a possibility of rain tomorrow."
+  },
+  {
+    "id": "prediction",
+    "unit": 2,
+    "word": "Prediction",
+    "definition": "A forecast about the future",
+    "synonym": "Projection",
+    "pronunciation": "/prɪˈdɪk.ʃən/",
+    "example": "His prediction about the election turned out to be correct."
+  },
+  {
+    "id": "principle",
+    "unit": 2,
+    "word": "Principle",
+    "definition": "A basic rule or belief",
+    "synonym": "Law",
+    "pronunciation": "/ˈprɪn.sə.pəl/",
+    "example": "Honesty is an important principle to live by."
+  },
+  {
+    "id": "problem",
+    "unit": 2,
+    "word": "Problem",
+    "definition": "A difficulty needing a solution",
+    "synonym": "Issue",
+    "pronunciation": "/ˈprɒb.ləm/",
+    "example": "They worked together to solve the problem."
+  },
+  {
+    "id": "process",
+    "unit": 2,
+    "word": "Process",
+    "definition": "A series of steps",
+    "synonym": "Procedure",
+    "pronunciation": "/ˈproʊ.ses/",
+    "example": "The manufacturing process takes several weeks."
+  },
+  {
+    "id": "product",
+    "unit": 2,
+    "word": "Product",
+    "definition": "Something that is made",
+    "synonym": "Item",
+    "pronunciation": "/ˈprɒd.ʌkt/",
+    "example": "The company launched a new product last month."
+  },
+  {
+    "id": "progress",
+    "unit": 2,
+    "word": "Progress",
+    "definition": "Forward movement toward a goal",
+    "synonym": "Advancement",
+    "pronunciation": "/ˈproʊ.ɡres/",
+    "example": "She made great progress in her studies."
+  },
+  {
+    "id": "purpose",
+    "unit": 2,
+    "word": "Purpose",
+    "definition": "The reason for doing something",
+    "synonym": "Intent",
+    "pronunciation": "/ˈpɜːr.pəs/",
+    "example": "The purpose of the meeting was to discuss the budget."
+  },
+  {
+    "id": "quality",
+    "unit": 3,
+    "word": "Quality",
+    "definition": "The standard of something",
+    "synonym": "Grade",
+    "pronunciation": "/ˈkwɒl.ə.ti/",
+    "example": "The store is known for the quality of its products."
+  },
+  {
+    "id": "quantity",
+    "unit": 3,
+    "word": "Quantity",
+    "definition": "An amount or number",
+    "synonym": "Volume",
+    "pronunciation": "/ˈkwɒn.tə.ti/",
+    "example": "They ordered a large quantity of supplies."
+  },
+  {
+    "id": "range",
+    "unit": 3,
+    "word": "Range",
+    "definition": "The extent between limits",
+    "synonym": "Scope",
+    "pronunciation": "/reɪndʒ/",
+    "example": "The shop sells a wide range of products."
+  },
+  {
+    "id": "rate",
+    "unit": 3,
+    "word": "Rate",
+    "definition": "A measure or frequency of something",
+    "synonym": "Speed",
+    "pronunciation": "/reɪt/",
+    "example": "The unemployment rate fell last month."
+  },
+  {
+    "id": "reason",
+    "unit": 3,
+    "word": "Reason",
+    "definition": "A cause for an action or event",
+    "synonym": "Explanation",
+    "pronunciation": "/ˈriː.zən/",
+    "example": "She gave no reason for being late."
+  },
+  {
+    "id": "recommendation",
+    "unit": 3,
+    "word": "Recommendation",
+    "definition": "A suggestion or advice",
+    "synonym": "Proposal",
+    "pronunciation": "/ˌrek.ə.menˈdeɪ.ʃən/",
+    "example": "The doctor made a recommendation about diet."
+  },
+  {
+    "id": "reduction",
+    "unit": 3,
+    "word": "Reduction",
+    "definition": "A decrease or drop",
+    "synonym": "Decline",
+    "pronunciation": "/rɪˈdʌk.ʃən/",
+    "example": "The company announced a reduction in staff."
+  },
+  {
+    "id": "region",
+    "unit": 3,
+    "word": "Region",
+    "definition": "A geographical area",
+    "synonym": "Zone",
+    "pronunciation": "/ˈriː.dʒən/",
+    "example": "This region is famous for its wine."
+  },
+  {
+    "id": "relation",
+    "unit": 3,
+    "word": "Relation",
+    "definition": "The way in which two things are connected",
+    "synonym": "Connection",
+    "pronunciation": "/rɪˈleɪ.ʃən/",
+    "example": "There is a clear relation between exercise and health."
+  },
+  {
+    "id": "reliability",
+    "unit": 3,
+    "word": "Reliability",
+    "definition": "The quality of being dependable",
+    "synonym": "Trustworthiness",
+    "pronunciation": "/rɪˌlaɪ.əˈbɪl.ə.ti/",
+    "example": "Customers trust the reliability of the brand."
+  },
+  {
+    "id": "requirement",
+    "unit": 3,
+    "word": "Requirement",
+    "definition": "Something necessary",
+    "synonym": "Condition",
+    "pronunciation": "/rɪˈkwaɪər.mənt/",
+    "example": "A degree is a requirement for this job."
+  },
+  {
+    "id": "research",
+    "unit": 3,
+    "word": "Research",
+    "definition": "The process of studying to learn more",
+    "synonym": "Investigation",
+    "pronunciation": "/rɪˈsɜːrtʃ/",
+    "example": "The team is conducting research on climate change."
+  },
+  {
+    "id": "resource",
+    "unit": 3,
+    "word": "Resource",
+    "definition": "A supply of materials or assets",
+    "synonym": "Asset",
+    "pronunciation": "/ˈriː.sɔːrs/",
+    "example": "Water is a valuable natural resource."
+  },
+  {
+    "id": "result",
+    "unit": 3,
+    "word": "Result",
+    "definition": "What happens after an action",
+    "synonym": "Outcome",
+    "pronunciation": "/rɪˈzʌlt/",
+    "example": "The test result was better than expected."
+  },
+  {
+    "id": "role",
+    "unit": 3,
+    "word": "Role",
+    "definition": "A function or responsibility",
+    "synonym": "Position",
+    "pronunciation": "/roʊl/",
+    "example": "She played a key role in the project's success."
+  },
+  {
+    "id": "sample",
+    "unit": 3,
+    "word": "Sample",
+    "definition": "A small part to represent the whole",
+    "synonym": "Specimen",
+    "pronunciation": "/ˈsæm.pəl/",
+    "example": "The lab tested a sample of the water."
+  },
+  {
+    "id": "scenario",
+    "unit": 3,
+    "word": "Scenario",
+    "definition": "A possible situation or sequence of events",
+    "synonym": "Situation",
+    "pronunciation": "/səˈnɑːr.i.oʊ/",
+    "example": "Let's consider a worst-case scenario."
+  },
+  {
+    "id": "selection",
+    "unit": 3,
+    "word": "Selection",
+    "definition": "The act of choosing",
+    "synonym": "Choice",
+    "pronunciation": "/sɪˈlek.ʃən/",
+    "example": "The store offers a wide selection of shoes."
+  },
+  {
+    "id": "significance",
+    "unit": 3,
+    "word": "Significance",
+    "definition": "Importance",
+    "synonym": "Meaning",
+    "pronunciation": "/sɪɡˈnɪf.ɪ.kəns/",
+    "example": "The discovery was of great significance to science."
+  },
+  {
+    "id": "solution",
+    "unit": 3,
+    "word": "Solution",
+    "definition": "A way to solve a problem",
+    "synonym": "Answer",
+    "pronunciation": "/səˈluː.ʃən/",
+    "example": "They found a simple solution to the problem."
+  },
+  {
+    "id": "source",
+    "unit": 3,
+    "word": "Source",
+    "definition": "The origin of something",
+    "synonym": "Origin",
+    "pronunciation": "/sɔːrs/",
+    "example": "The river is the source of the town's water supply."
+  },
+  {
+    "id": "strategy",
+    "unit": 3,
+    "word": "Strategy",
+    "definition": "A planned method",
+    "synonym": "Tactic",
+    "pronunciation": "/ˈstræt.ə.dʒi/",
+    "example": "The team developed a new marketing strategy."
+  },
+  {
+    "id": "structure",
+    "unit": 3,
+    "word": "Structure",
+    "definition": "The arrangement of parts",
+    "synonym": "Framework",
+    "pronunciation": "/ˈstrʌk.tʃər/",
+    "example": "The structure of the essay was clear and logical."
+  },
+  {
+    "id": "study",
+    "unit": 3,
+    "word": "Study",
+    "definition": "A detailed examination or analysis",
+    "synonym": "Research",
+    "pronunciation": "/ˈstʌd.i/",
+    "example": "The study took three years to complete."
+  },
+  {
+    "id": "subject",
+    "unit": 3,
+    "word": "Subject",
+    "definition": "The topic being discussed or studied",
+    "synonym": "Theme",
+    "pronunciation": "/ˈsʌb.dʒɪkt/",
+    "example": "History is her favorite subject."
+  },
+  {
+    "id": "suggestion",
+    "unit": 3,
+    "word": "Suggestion",
+    "definition": "An idea put forward",
+    "synonym": "Recommendation",
+    "pronunciation": "/səˈdʒes.tʃən/",
+    "example": "He made a helpful suggestion during the meeting."
+  },
+  {
+    "id": "theory",
+    "unit": 3,
+    "word": "Theory",
+    "definition": "An idea to explain something",
+    "synonym": "Hypothesis",
+    "pronunciation": "/ˈθɪər.i/",
+    "example": "Scientists tested the theory through experiments."
+  },
+  {
+    "id": "tool",
+    "unit": 3,
+    "word": "Tool",
+    "definition": "An object or method used to do a task",
+    "synonym": "Instrument",
+    "pronunciation": "/tuːl/",
+    "example": "A hammer is a useful tool for this job."
+  },
+  {
+    "id": "trend",
+    "unit": 3,
+    "word": "Trend",
+    "definition": "A general pattern over time",
+    "synonym": "Movement",
+    "pronunciation": "/trend/",
+    "example": "There is a growing trend toward remote work."
+  },
+  {
+    "id": "understanding",
+    "unit": 3,
+    "word": "Understanding",
+    "definition": "The ability to grasp meaning",
+    "synonym": "Comprehension",
+    "pronunciation": "/ˌʌn.dərˈstæn.dɪŋ/",
+    "example": "She has a deep understanding of the subject."
+  },
+  {
+    "id": "use",
+    "unit": 3,
+    "word": "Use",
+    "definition": "The act of employing something",
+    "synonym": "Application",
+    "pronunciation": "/juːs/",
+    "example": "The use of smartphones has increased dramatically."
+  },
+  {
+    "id": "value",
+    "unit": 3,
+    "word": "Value",
+    "definition": "The importance or worth of something",
+    "synonym": "Worth",
+    "pronunciation": "/ˈvæl.juː/",
+    "example": "The painting increased in value over time."
+  },
+  {
+    "id": "variable",
+    "unit": 3,
+    "word": "Variable",
+    "definition": "Something that can change",
+    "synonym": "Factor",
+    "pronunciation": "/ˈver.i.ə.bəl/",
+    "example": "Temperature was the key variable in the experiment."
+  },
+  {
+    "id": "view",
+    "unit": 3,
+    "word": "View",
+    "definition": "An opinion",
+    "synonym": "Perspective",
+    "pronunciation": "/vjuː/",
+    "example": "In her view, the plan needs more work."
+  },
+  {
+    "id": "way",
+    "unit": 3,
+    "word": "Way",
+    "definition": "A method or means",
+    "synonym": "Approach",
+    "pronunciation": "/weɪ/",
+    "example": "There must be a better way to solve this."
+  }
+]
